@@ -1,0 +1,7 @@
+D:\Steam\steamapps\common\RimWorld\Mods\TreeModThing\Assemblies\Thek.TreeMod.dll
+D:\Steam\steamapps\common\RimWorld\Mods\TreeModThing\obj\Debug\potato.csproj.AssemblyReference.cache
+D:\Steam\steamapps\common\RimWorld\Mods\TreeModThing\obj\Debug\potato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Steam\steamapps\common\RimWorld\Mods\TreeModThing\obj\Debug\potato.AssemblyInfoInputs.cache
+D:\Steam\steamapps\common\RimWorld\Mods\TreeModThing\obj\Debug\potato.AssemblyInfo.cs
+D:\Steam\steamapps\common\RimWorld\Mods\TreeModThing\obj\Debug\potato.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\RimWorld\Mods\TreeModThing\obj\Debug\Thek.TreeMod.dll

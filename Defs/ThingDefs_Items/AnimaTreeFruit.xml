@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+      <ThingDef ParentName="PlantFoodRawBase">
+        <defName>AnimaFruit</defName>
+        <label>Anima Fruit</label>
+        <description>tba</description>
+        <possessionCount>10</possessionCount>
+        <graphicData>
+          <texPath>Things/ThingDefs_Item/AnimaFruit/AnimaFruit</texPath>
+        </graphicData>
+        <statBases>
+            <DeteriorationRate>0</DeteriorationRate>
+            <MarketValue>1.1</MarketValue>
+            <Nutrition>0</Nutrition>
+        </statBases>
+        <ingestible Inherit="False" IsNull="True" />
+  </ThingDef>
+</Defs>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Plant_TreeAnima"]/plant</xpath>
+        <value>
+            <plant>
+                <growDays>1</growDays>
+                <fertilityMin>0.5</fertilityMin>
+                <fertilitySensitivity>0.5</fertilitySensitivity>
+                <visualSizeRange>3</visualSizeRange>
+                <sowMinSkill>1</sowMinSkill>
+                <harvestWork>4</harvestWork>
+                <harvestYield>2</harvestYield>
+                <harvestTag>Standard</harvestTag>
+                <harvestedThingDef>AnimaFruit</harvestedThingDef>
+                <harvestFailable>false</harvestFailable>
+                <wildOrder>2</wildOrder>
+                <mustBeWildToSow>true</mustBeWildToSow>
+                <harvestAfterGrowth>0.1</harvestAfterGrowth>
+            </plant>
+        </value>
+    </Operation>
+
+</Patch>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZKt0yncfqQdXBfmFsdWXWK/YlhoXSYFImUGaOFFZdGXhGhoSlqIgkfnTW8Vhws5lyjgtrMjBM+XTKea1SMrjg==",
+  "success": true,
+  "projectFilePath": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\TreeModThing\\potato.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3563\\krafs.rimworld.ref.1.4.3563.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\unlimitedhugs.rimworld.hugslib\\10.0.1\\unlimitedhugs.rimworld.hugslib.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
